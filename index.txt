@@ -2,3 +2,5 @@ This is the Master Branch
 This is the new change for Master Branch
 Trying to learn GitHub
 Trying to learn How to push code
+Trying to learn How to Commit Code
+
