@@ -1,4 +1,4 @@
-<div className="container main">
+<div className="container main-container">
   <h1>Asif Mujawar</h1>
 </div>
 <div className="row">
