@@ -1,0 +1,4034 @@
+.content-layot {
+    margin: 64px 0 0 240px;
+    padding: 20px;
+    flex-grow: 1;
+  }
+  div#mobodatePicker {
+    justify-content: end;
+  }
+  .margin-auto {
+    margin: 64px 0 0 0;
+  }
+  .col-12.col-sm-12.col-md-8.col-lg-8.plpr-0 {
+    padding-left: 1.4rem;
+    padding-right: 1.4rem;
+  }
+  .disin {
+    display: inline-block !important;
+  }
+  .h86 {
+    height: 86px;
+  }
+  .dateStyle {
+    background-image: url("../../assets/images/DatePicker.svg");
+    background-position: 97%;
+    background-repeat: no-repeat;
+  }
+  .h50 {
+    height: 50px;
+  }
+  .teamImg {
+    height: 53px;
+    width: 53px;
+    border-radius: 5px;
+  }
+  #groupdialogBox {
+    width: 500px !important;
+    margin: 0 auto !important;
+    margin-top: 2% !important;
+  }
+  .MuiTableBody-root {
+    font-size: 18px !important;
+    font-weight: 600;
+  }
+  .MuiTableCell-root {
+    font-size: 18px !important;
+    font-weight: 700;
+  }
+  .mRL {
+    margin: 65px 0;
+  }
+  #mtablestyle .MuiTableRow-root .MuiTableRow-head tr th:nth-child(3) {
+    width: 150px;
+  }
+  #schoolAdminButton .MuiButton-contained:hover {
+    box-shadow: none;
+    background-color: none !important;
+  }
+  
+  /* #schoolAdminButton .MuiButton-root {
+      color: rgba(0, 0, 0, 0.87);
+      padding: 6px 11px !important;
+      font-size: 0.875rem;
+      min-width: 64px;
+  } */
+  #schoolAdminButton .MuiButton-root {
+    color: rgba(0, 0, 0, 0.87);
+    padding: 6px 11px !important;
+    font-size: 18px;
+    min-width: 64px;
+    font-family: "Rajdhani-Medium";
+    text-transform: capitalize;
+  }
+  #schoolAdminButton .makeStyles-innerdropdown-9 {
+    color: #575757;
+    background: #e0e0e0;
+    font-family: "Rajdhani-SemiBold";
+    border-radius: 18px !important;
+  }
+  #schoolAdminButton .makeStyles-dropdown-8 {
+    left: 6px !important;
+    margin-top: 8px !important;
+    width: 84% !important;
+  }
+  #schoolAdminButton .makeStyles-dropdownbutton-6 {
+    width: 86% !important;
+  }
+  #schoolAdminButton .makeStyles-innerdropdown-9 {
+    background: #ffffff !important;
+  }
+  #schoolAdminButton .MuiButton-root:hover {
+    background-color: #ffffff !important;
+  }
+  #schoolAdminButton .circleimage:hover {
+    background-color: #ffffff !important;
+  }
+  .smt-20 {
+    margin-top: 40px;
+  }
+  .padin-60 {
+    padding: 0px 20px 0px 60px !important;
+  }
+  #schoolAdminButton .MuiButton-label {
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: flex-start !important;
+  }
+  #schoolAdminButton .MuiListItem-root {
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  
+  /* Feed  */
+  .card-box {
+    /* border: 0.3px solid #cecece; */
+    background: #ffffff;
+    border-radius: 11px;
+    height: 84px;
+    padding: 20px;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+  }
+  .card-box:hover {
+    /* border: 0.3px solid #cecece; */
+  
+    box-shadow: 0 1px 2px rgb(0 0 0 / 30%);
+  }
+  .card-box-style {
+    padding: 10px;
+  }
+  .card-box-style:hover {
+    padding: 10px;
+    width: 175px;
+    /* height: 57px; */
+    background: #f0f0f0 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 30%);
+  }
+  .editdata {
+    padding-left: 0px !important;
+  }
+  .h25 {
+    width: 25px;
+    height: 20px;
+  }
+  .positnimage {
+    position: relative;
+    top: -6px;
+  }
+  .main-card-box {
+    /* border: 0.3px solid #cecece; */
+    background: #ffffff;
+    border-radius: 11px;
+    padding: 20px;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+    margin-bottom: 20px;
+  }
+  .main-card-box:hover {
+    box-shadow: 0 1px 2px rgb(0 0 0 / 30%);
+  }
+  #schoolAdminSidebar .makeStyles-drawerPaper-4 {
+    background-color: transparent !important;
+  }
+  #schoolAdminSidebar .makeStyles-drawerPaper-4 {
+    color: #575757;
+    width: 260px !important;
+  }
+  .p-11 {
+    padding: 11px;
+  }
+  .input-style {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    border: none;
+    height: 46px;
+  }
+  .search-icon {
+    background-image: url("../../assets/images/searchIcon.png");
+    background-repeat: no-repeat;
+    background-position: 10%;
+    padding-left: 11%;
+  }
+  .search-style {
+    background-image: url("../../assets/images/greySearch.png");
+    background-position: 2%;
+    padding-left: 8% !important;
+    background-repeat: no-repeat;
+  }
+  .lightblue-text {
+    color: #067df4;
+  }
+  .txtdecor {
+    text-decoration: underline;
+  }
+  .red-dot {
+    border: 1px solid #d52929;
+    background-color: #fc8686;
+    border-radius: 50%;
+    height: 13px;
+    width: 13px;
+  }
+  .live-style-card {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    /* border: 0.5px solid #D1D1D1; */
+    box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+    border-radius: 11px;
+    opacity: 1;
+  }
+  .live-style-card:hover {
+    box-shadow: 0 1px 2px rgb(0 0 0 / 30%);
+  }
+  .grey-box {
+    background: #ededed;
+    border-radius: 7px;
+    height: 53px;
+    width: 53px;
+  }
+  #schoolAdminButton .MuiButton-contained {
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: none !important;
+    background-color: #ffffff !important;
+  }
+  
+  .top-strip {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    opacity: 1;
+    height: 70px;
+  }
+  .addBtn {
+    width: 180px;
+    background: #002244 !important;
+    border-radius: 11px !important;
+    opacity: 1;
+    color: #ffffff !important;
+    padding:8px 15px;
+    font-family: "Rajdhani-SemiBold" !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    outline: none;
+    border: none;
+  }
+  .req-con-btn {
+    width: 175px;
+    background: #2c9d69 !important;
+    border: 1px solid #2c9d69;
+    border-radius: 22px !important;
+    opacity: 1;
+    color: #ffffff !important;
+    font-family: "Rajdhani-SemiBold" !important;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    overflow: auto;
+    float: right;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 20px 40px #00000029;
+    border: 1px solid #d6d6d6;
+    border-radius: 11px;
+    opacity: 1;
+    margin-left: 72px;
+    top: 202px;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 6px 16px;
+    text-decoration: none;
+    display: block;
+    font-family: "Rajdhani-SemiBold" !important;
+  }
+  .dropdown a:hover {
+    background-color: #f1f1f1;
+  }
+  .show {
+    display: block;
+  }
+  
+  .uploadDocuments-card {
+    padding: 20px !important;
+    width: 100%;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.30000001192092896px solid #efefef;
+    border-radius: 11px;
+    opacity: 1;
+    box-shadow: rgb(0 0 0 / 4%) 0px 3px 5px;
+    height: 450px;
+  }
+  .uploadDoc-innercard {
+    background: #f7f7f7 0% 0% no-repeat padding-box;
+    border: 1.8px dashed #d6d6d6;
+    border-radius: 11px;
+    opacity: 1;
+    padding: 20px;
+    height: 320px;
+  }
+  .h-400 {
+    height: 400px;
+  }
+  .coachprofIMG {
+    border-radius: 50%;
+    object-fit: cover;
+    width: 100px;
+    height: 100px !important;
+  }
+  .posLR {
+    position: relative;
+    left: -90px;
+    text-align: left;
+    top: 25px;
+  }
+  .pauseMT {
+    position: relative;
+    top: 9px;
+  }
+  .playMT {
+    position: relative;
+    top: 2px;
+  }
+  .deleteicon {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    top: 3px;
+  }
+  .selectFileBtn {
+    background: var(--unnamed-color-003594) 0% 0% no-repeat padding-box;
+    background: #002244 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    outline: none;
+    color: white;
+    font-family: "Rajdhani-SemiBold" !important;
+    padding: 10px;
+    border: 1px solid #002244;
+    width: 174px;
+    font-size: 18px;
+  }
+  .greybtn {
+    width: 180px;
+    background: #a3a3a3 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    border: 1px solid #a3a3a3;
+    font-size: 18px;
+    color: #ffffff;
+    outline: none;
+    height: 38px;
+  }
+  .saveBtn {
+    background: #002244 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    letter-spacing: 0px;
+    color: #ffffff;
+    font-family: "Rajdhani-SemiBold" !important;
+    outline: none;
+    width: 107px;
+    height: 38px;
+    border: 1px solid #002244;
+  }
+  .sharebtn {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 0.30000001192092896px solid #a0a0a0;
+    border-radius: 4px;
+    opacity: 1;
+    letter-spacing: 0px;
+    color: #a3a3a3;
+    opacity: 1;
+    outline: none;
+    width: 107px;
+    height: 38px;
+    font-family: "Rajdhani-SemiBold" !important;
+  }
+  .shareto {
+    background: #002244 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    font-family: "Rajdhani-SemiBold" !important;
+    outline: none;
+    letter-spacing: 0px;
+    color: #ffffff;
+    border: 1px solid #002244;
+    width: 228px;
+    height: 38px;
+  }
+  .searchIcon {
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: "url(${search})";
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+  }
+  #dialog .MuiDialog-paperScrollPaper {
+    display: flex;
+    max-height: 100%;
+    flex-direction: column;
+  }
+  .bordr50 {
+    border-radius: 50%;
+  }
+  .crossview {
+    background: #f3f3f3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 20px;
+    padding: 6px;
+    margin-left: 0.3rem;
+  }
+  .footer {
+  
+    bottom: 0;
+    flex: 1;
+    justify-content: flex-end;
+    align-items: unset;
+    width: 100%;
+    flex: auto;
+    direction: inherit; 
+  }
+  .createEvent {
+    background: #002244 !important;
+    border-radius: 22px !important;
+    opacity: 1;
+    color: #ffffff !important;
+    font-family: "Rajdhani-SemiBold" !important;
+    border: 1px solid #002244;
+    outline: none;
+    font-size: 14px;
+    /* padding: 2px; */
+    width: 90px;
+    height: 30px;
+  }
+  
+  #dialogBox .MuiDialogTitle-root {
+    border-bottom: 1px solid #f3f3f3 !important;
+  }
+  
+  .MuiPaper-rounded {
+    border-radius: 11px !important;
+  }
+  .uploadFilesBtn {
+    background: #2c9d69 !important;
+    border-radius: 4px !important;
+    opacity: 1;
+    color: #ffffff !important;
+    font-family: "Rajdhani-SemiBold" !important;
+    border: 1px solid #2c9d69;
+    outline: none;
+    font-size: 18px;
+    width: 180px;
+    height: 38px;
+  }
+  
+  /* Custom CheckBox */
+  .container {
+    display: block;
+    position: relative;
+    /* padding-left: 35px; */
+    margin-bottom: 12px;
+    /* cursor: pointer; */
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  /* Hide the browser's default checkbox */
+  .container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+  
+  /* Create a custom checkbox */
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    border: 1px solid #cccccc;
+    border-radius: 50%;
+  }
+  
+  /* On mouse-over, add a grey background color */
+  .container:hover input ~ .checkmark {
+    background-color: #2c9d69;
+  }
+  
+  /* When the checkbox is checked, add a blue background */
+  .container input:checked ~ .checkmark {
+    background-color: #2c9d69;
+  }
+  
+  /* Create the checkmark/indicator (hidden when not checked) */
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  
+  /* Show the checkmark when checked */
+  .container input:checked ~ .checkmark:after {
+    display: block;
+  }
+  
+  /* Style the checkmark/indicator */
+  .container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  
+  /* Hover Drop Down */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    padding: 12px 16px;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* Profile img style */
+  .profileStyle {
+    width: 77px;
+    height: 77px !important;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .details-profile-style {
+    height: 75px !important;
+    width: 125px;
+    border-radius: 50%;
+  }
+  .details-profile-stylecoach {
+    height: 110px !important;
+    width: 110px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .brderbtm {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  .brtenpixl tr th {
+    text-transform: uppercase !important;
+  }
+  .MuiButton-startIcon {
+    display: inherit;
+    margin-left: -52px !important;
+    margin-right: 8px;
+  }
+  #schoolAdminSidebar .makeStyles-root-1 {
+    display: flex;
+    width: 299px !important;
+  }
+  #schoolAdminSidebar .makeStyles-drawerContainer-5 {
+    /* overflow: hidden !important; */
+    overflow: hidden;
+  }
+  #schoolAdminSidebar .jss5 {
+    overflow: hidden;
+  }
+  /* #schoolAdminSidebar .jss5:hover
+  {
+      overflow-y: scroll;
+  } */
+  #schoolAdminSidebar .makeStyles-drawerContainer-5:hover {
+    overflow-y: hidden !important;
+  }
+  #schoolAdminButton .makeStyles-innerdropdown-9 {
+    background: #e0e0e0 !important;
+    margin-left: 29px;
+  }
+  .MuiButton-endIcon {
+    display: inherit;
+    margin-left: 7px !important;
+    margin-right: 0px !important;
+  }
+  
+  .plane-btn {
+    border: 1px solid #ced4da !important;
+    background-color: #ffffff;
+  }
+  
+  .yes-btn {
+    width: 102px;
+    height: 40px;
+    background: #ff7e7e 0% 0% no-repeat padding-box;
+    border-radius: 22px;
+    opacity: 1;
+    outline: none;
+    font-family: "Rajdhani-SemiBold" !important;
+    font-size: 16px;
+    color: #ffffff;
+    border: none;
+  }
+  
+  .txt-overflow {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%;
+    height: 1.2em;
+    white-space: nowrap;
+  }
+  /* .txt-overflow:hover{
+      display: contents;
+  } */
+  #progressbar .progress {
+    height: 0.4rem !important;
+    border-radius: 0rem !important;
+  }
+  #progressbar .progress-bar {
+    background-color: #8dbf6e !important;
+  }
+  .progressHeader {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding: 20px;
+    border-bottom: 0.5px solid #d5d5d5;
+  }
+  .vdoListbg {
+    background: #f8f8f8;
+  }
+  #checkbtn .MuiIconButton-label {
+    color: grey !important;
+  }
+  /* #nav .MuiPaper-elevation4 {
+      box-shadow:none!important;
+      border-bottom: 0.3px solid #d5d5d5!important;
+      border-bottom: 0.30000001192092896px solid #d5d5d5!important;
+      
+  } */
+  
+  #nav .MuiPaper-elevation4 {
+    box-shadow: 0px 0px 0px 0px rgb(0 0 0 / 20%), 0px 0px 0px 0px rgb(0 0 0 / 14%),
+      0px 0px 0px 0px rgb(0 0 0 / 12%) !important;
+  }
+  .bggrey {
+    width: 244px;
+    /* height: 40px; */
+    background: #f3f0f3 0% 0% no-repeat padding-box;
+    border-radius: 22px;
+    opacity: 1;
+    padding: 6px;
+    outline: none;
+    border: 1px solid #f3f0f3;
+  }
+  .bggrey:hover {
+    font-family: "Rajdhani-Bold" !important;
+  }
+  .rmvbtn {
+    border: 1px solid #ff7e7e;
+    background: #ff7e7e 0% 0% no-repeat padding-box;
+    border-radius: 22px;
+    opacity: 1;
+    outline: none;
+    width: 102px;
+    height: 40px;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+  }
+  .cancelbtn {
+    width: 102px;
+    height: 40px;
+    background: #e5e5e5 0% 0% no-repeat padding-box;
+    border-radius: 22px;
+    opacity: 1;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+  #SharePaylistDialog .MuiDialogContent-root {
+    padding-top: 20px;
+    width: 480px !important;
+  }
+  
+  /* #userProfile .MuiIconButton-root:hover {
+      background-color: #EDEDED!important;
+      border-radius: 10px!important;
+  } */
+  #shareTable .overflowScroll {
+    height: 240px !important;
+    overflow: hidden !important;
+    overflow-y: scroll !important;
+  }
+  
+  .wtwofif {
+    width: 200px !important;
+    margin-left: 2%;
+  }
+  .MuiAccordionSummary-root {
+    display: flex;
+    padding: 0px 11px !important;
+  }
+  .plr {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .plrDESK
+  {
+    padding-right: 15px;
+  }
+  .plrDM
+  {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .plrone {
+    padding-left: 15px !important;
+    padding-right: 7px !important;
+  }
+  .MuiDialogContent-root {
+    padding: 8px 24px !important;
+  }
+  .makeStyles-drawerContainer-5 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .backbg {
+    background-color: #f5f5f5;
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    padding-top: 5px !important;
+    padding-left: 11px !important;
+  }
+  .h15 {
+    height: 15px;
+  }
+  .rcolor {
+    background-color: #e8e8e8;
+  }
+  .hrstyle-new {
+    margin-bottom: 0.5rem !important;
+    margin-top: 0.5rem !important;
+  }
+  #videoliabrary1 .vidolib-scroll {
+    height: 100%;
+    overflow: hidden;
+  }
+  #videoliabrary1 .vidolib-scroll:hover {
+    height: 100%;
+    /* overflow-y: scroll; */
+    overflow-x: hidden;
+  }
+  #videoliabrary1 .vidolib-scroll::-webkit-scrollbar-thumb {
+    background-color: #d0d0d0;
+    border-radius: 20px;
+    border: 1px solid #d4d4d4;
+  }
+  #videoliabrary1 .vidolib-scroll::-webkit-scrollbar {
+    width: 7px;
+    height: 4px;
+  }
+  
+  #videoliabrary1 .vidolib-scroll::-webkit-scrollbar-track {
+    background: #fafafa;
+  }
+  .bre9 {
+    border-right: 1px solid #e9e9e9;
+  }
+  .vidlab-search {
+    height: 53px;
+    width: 100%;
+    border: 1px solid #e9e9e9;
+    outline: none;
+    background-image: url("../../assets/images/greySearch.png");
+    background-position: 1%;
+    padding-left: 6% !important;
+    background-repeat: no-repeat;
+    font-size: 20px;
+  }
+  .added-text {
+    font-size: 18px;
+    font-family: "Rajdhani-SemiBold";
+    padding-left: 12px;
+  }
+  .video-box {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+    padding: 15px;
+    margin: 1%;
+    border-radius: 7px;
+    /* height: 100%; */
+  }
+  .video-box-new
+  {
+    width: 255px;
+    height: 212px;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+    padding: 15px;
+    /* margin: 4%; */
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* padding-bottom: 105px; */
+  }
+  .counter-text {
+    position: relative;
+    left: -4px;
+  }
+  .vid-img {
+    height: 135px;
+    object-fit: cover;
+    border-radius: 7px 7px 0px 0px;
+  }
+  .h135 {
+    height: 125px !important;
+    width: 100% !important;
+  }
+  .badge-style {
+    height: 66px;
+    width: 66px;
+    border-radius: 50%;
+    background-color: #d8ebff;
+  }
+  .MuiListItemIcon-root {
+    min-width: 35px !important;
+  }
+  #schoolAdminButton .MuiButton-root {
+    width: 100px !important;
+  }
+  .MuiButton-text {
+    padding: 9px 9px;
+  }
+  .plten {
+    padding-left: 10px;
+  }
+  .padIn-6 {
+    padding-left: 6px;
+  }
+  
+  .btnActive {
+    background-color: #ededed !important;
+    color: #575757 !important;
+    box-shadow: 0px 2px 6px #00000029;
+  }
+  /* #schooladmin .MuiListItem-button.active {
+    background-color: #ededed !important;
+    color: #575757 !important;
+    box-shadow: 0px 2px 6px #00000029;
+  } */
+  .pos-fix {
+    position: fixed;
+  }
+  .pl-213 {
+    padding-left: 16.5% !important;
+  }
+  .MuiButton-startIcon {
+    margin-top: -3px !important;
+  }
+  .MuiButton-label {
+    padding-top: 2px !important;
+  }
+  .MTableHeader-header-31 {
+    top: 0;
+    z-index: 10;
+    position: sticky;
+    background-color: #fff;
+    font-size: 18px !important;
+    font-family: "Rajdhani-Bold" !important;
+  }
+  .dogimgstyle {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    margin-top: 20px;
+  }
+  .tab-box-shadow {
+    box-shadow: 0px 2px 4px -1px rgb(0 0 0 / 20%),
+      0px 4px 5px 0px rgb(0 0 0 / 14%), 0px 1px 10px 0px rgb(0 0 0 / 12%);
+  }
+  .p15 {
+    padding: 15pxs;
+  }
+  .pl15 {
+    padding-left: 8px !important;
+  }
+  .form-control {
+    font-size: 18px;
+  }
+  .zindex {
+    z-index: 100 !important;
+  }
+  .logoUi {
+    height: 67px;
+    width: 67px;
+    border-radius: 50px;
+  }
+  .logoUi-website {
+    height: 67px;
+    width: 67px;
+    border-radius: 50px;
+  }
+  .schoolWeb {
+    margin-top: 30px;
+  }
+  .searchBox {
+    border: none;
+    font-size: 15px;
+    min-height: 15px;
+  }
+  .inputField {
+    margin: 3px;
+  }
+  .chips {
+    background: red;
+  }
+  .optionContainer {
+    border: 2px solid;
+  }
+  .option {
+    color: blue;
+  }
+  
+  .MuiTableSortLabel-root {
+    font-size: 18px !important;
+  }
+  
+  .MuiListItem-root {
+    width: 100%;
+    display: flex;
+    position: relative;
+    box-sizing: border-box;
+    text-align: left;
+    align-items: center;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    justify-content: flex-start;
+    text-decoration: none;
+  }
+  #aone .MuiListItem-gutters {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+  .h-30 {
+    height: 35px !important;
+  }
+  .h-20 {
+    height: 20px !important;
+    width: 20px !important;
+  }
+  /* #schoolFeed :hover{
+    background: #ebeaea;
+  } */
+  /* #schoolFeed .MuiListItem-gutters {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  } */
+  #schoolFeed .MuiListItem-gutters {
+    
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    padding-left: 27px !important;
+  }
+  .schoolFeed-listItems{
+    margin-top: 8px !important;
+  }
+  .Dashboard-listt-items{
+    margin-top: 8px !important;
+  }
+  
+  .Dashboard-listt-items:hover{
+    background-color: #ebeaea !important;
+  }
+  
+  .li-active{
+    margin-top: 8px !important;
+    background-color: #ebeaea !important;
+  }
+  
+  .h-40 {
+    height: 36px !important;
+  }
+  .school-nm{
+    padding-left: 20px;
+  }
+  
+  .school-name {
+    display: -webkit-box;
+    max-width: 400px;
+    height: auto;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.3;
+    padding-top: 7px;
+  }
+  #schoolFeed .MuiTypography-body1 {
+    font-size: 18px !important;
+    font-family: "Rajdhani-medium" !important;
+    cursor: pointer;
+  }
+  
+  .manage-items-list{
+    color: green !important;
+    background-color: red !important;
+  }
+  
+  .makeStyles-drawerContainer-5::-webkit-scrollbar-track {
+    background: #fafafa;
+  }
+  .makeStyles-drawerContainer-5::-webkit-scrollbar-thumb {
+    background-color: #ededed;
+    border-radius: 20px;
+    border: 1px solid #d4d4d4;
+  }
+  .makeStyles-drawerContainer-5::-webkit-scrollbar {
+    width: 5px;
+    height: 4px;
+  }
+  .video-text {
+    font-size: 18px;
+    font-family: "Rajdhani-SemiBold";
+  }
+  .searchevent-text {
+    font-size: 16px;
+    font-family: "Rajdhani-Medium";
+    letter-spacing: 0px;
+    color: #343434;
+    background: white;
+    border-radius: 7px;
+    background-image: url("../../assets/images/searchicon.svg");
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: 13px;
+  }
+  .searchevent {
+    font-size: 20px;
+    font-family: "Rajdhani-Medium";
+    letter-spacing: 0px;
+    color: #343434;
+    background: white;
+    border-radius: 7px;
+    background-image: url("../../assets/images/searchicon.svg");
+    background-repeat: no-repeat;
+  
+    background-position-x: 96%;
+    background-position-y: 13px;
+    text-align: left;
+    padding-left: 15px;
+  }
+  
+  /* Trends */
+  .card-boxone {
+    border: 0.3px solid #cecece;
+    background: #ffffff;
+    border-radius: 11px;
+    padding: 20px;
+  }
+  .w-28 {
+    width: 28%;
+  }
+  .w-70 {
+    width: 70%;
+    padding-left: 2%;
+  }
+  .trend-left {
+    width: 66%;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-right: 1px solid #cccccc;
+  }
+  .trend-right {
+    position: fixed;
+    margin-left: 53%;
+    width: 26%;
+  }
+  .activity-btn {
+    background: #f0f0f0 0% 0% no-repeat padding-box;
+    border: 1px solid #dbdbdb;
+    border-radius: 7px;
+  }
+  .activity-tbtn {
+    background: #ffffff 0% 0% no-repeat padding-box;
+    border: 1px solid #dbdbdb;
+    border-radius: 7px;
+  }
+  .card-box-next {
+    /* border: 0.3px solid #cecece; */
+    background: #ffffff;
+    border-radius: 11px;
+    height: 100px;
+    padding: 20px;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+  }
+  .comment-box {
+    background: #f0f0f0 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+  }
+  .greycircle {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    background-color: #dbdbdb;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .brdrr {
+    border-right: 1px solid #cccccc;
+  }
+  .w-videobtn {
+    background: #dfdfdf 0% 0% no-repeat padding-box;
+    border-radius: 5px;
+    color: #4c4c4c;
+  }
+  .card-box-one {
+    /* border: 0.3px solid #cecece; */
+    background: #ffffff;
+    border-radius: 11px;
+    height: 200px;
+    padding: 20px;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+  }
+  .modelstyle {
+    width: 506px;
+    height: 300px;
+    margin: auto auto;
+    margin-top: 13%;
+  }
+  .progress-bar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    background-color: #8dbf6e !important;
+    transition: width 0.6s ease;
+  }
+  .dnone {
+    display: none;
+  }
+  .hwbr {
+    height: 37px;
+    width: 37px;
+    border-radius: 50%;
+  }
+  .dialog-style {
+    width: 500px;
+    height: 225px;
+    margin-top: 12% !important;
+    margin: 0 auto;
+  }
+  .txtulstyle {
+    text-decoration: underline;
+    color: #2680eb;
+  }
+  .dialog-styleone {
+    width: 500px;
+    height: 303px;
+    margin-top: 12% !important;
+    margin: 0 auto;
+  }
+  .camera-dialog {
+    width: 500px;
+    height: 332px;
+    margin-top: 12% !important;
+    margin: 0 auto;
+  }
+  /* .MuiDialog-paperWidthSm {
+    width: 100% !important;
+  }  */
+  #dialogBoxnn {
+    width: 500px !important;
+    height: 357px;
+    margin-top: 12% !important;
+    margin: 0 auto;
+  }
+  .camera-dialogone {
+    width: 500px;
+    height: 432px;
+    margin-top: 12% !important;
+    margin: 0 auto;
+  }
+  .progress {
+    height: 7px !important;
+  }
+  #dialogBoxone {
+    width: 500px;
+    height: 225px;
+    margin-top: 12% !important;
+    margin: 0 auto;
+  }
+  .create-event-dialog {
+    width: 500px;
+    height: 700px;
+    margin-top: 1% !important;
+    margin: 0 auto;
+  }
+  #create-event-dialog {
+    width: 500px;
+    height: 700px;
+    margin-top: 1% !important;
+    margin: 0 auto;
+  }
+  .jersyNo {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    background-color: #cee0ff;
+    color: #002244;
+    font-size: 15;
+    text-align: center;
+    padding-top: 5px;
+    /* padding-left: 7px;
+      padding-top: 5px; */
+  }
+  .MuiTableCell-root {
+    display: table-cell;
+    padding: 9px !important;
+  }
+  .tab-style {
+    height: 60px;
+    padding-top: 7px !important;
+  }
+  .mt30 {
+    margin-top: 45px;
+  }
+  .makeStyles-drawerContainer-5 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .spinner-style {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  .h40 {
+    height: 40px;
+  }
+  .campad {
+    padding: 23px 17px !important;
+    background: #ffffff;
+  }
+  .cam-box-style {
+    background-color: #f4f4f4;
+  }
+  .h210 {
+    height: 210px;
+  }
+  .h280 {
+    height: 208px !important;
+  }
+  .brDa {
+    border-right: 1px solid #dadada;
+    border-bottom: 1px solid #dadada;
+  }
+  .brbottom {
+    border-bottom: 1px solid #dadada;
+  }
+  .brnone {
+    border-radius: 0px !important;
+  }
+  
+  /* Toggle switch start */
+  .onoffswitch {
+    position: relative;
+    width: 155px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+  }
+  .onoffswitch-checkbox {
+    display: none;
+  }
+  .onoffswitch-label {
+    display: block;
+    overflow: hidden;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: "Rajdhani-Regular";
+  }
+  .onoffswitch-inner {
+    display: block;
+    width: 200%;
+    margin-left: -100%;
+    transition: margin 0.3s ease-in 0s;
+  }
+  .onoffswitch-inner:before,
+  .onoffswitch-inner:after {
+    display: block;
+    float: left;
+    width: 50%;
+    height: 50px;
+    padding: 0;
+    line-height: 30px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    font-family: "Rajdhani-Regular";
+    box-sizing: border-box;
+  content: "START";  padding: 10px;
+  }
+  .onoffswitch-inner:before {
+    
+    padding-right: 42px;
+    background-color: green;
+    color: #ffffff;
+  }
+  .onoffswitch-inner:after {
+    content: "STOP";
+    padding-right: 10px;
+    background-color: #440000;
+    color: #ffffff;
+    text-align: right;
+  }
+  .onoffswitch-switch {
+    display: block;
+    width: 40px;
+    height: 45px;
+    margin: 2px;
+    background: #ffffff;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 101px;
+    border: 2px solid #999999;
+    border-radius: 50%;
+    transition: all 0.3s ease-in 0s;
+  }
+  .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-inner {
+    margin-left: 0;
+  }
+  .onoffswitch-checkbox:checked + .onoffswitch-label .onoffswitch-switch {
+    right: 0px;
+  }
+  /* Toggle switch end */
+  @media (min-width: 1200px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl {
+      max-width: 100% !important;
+    }
+  }
+  @media not all and (min-resolution: 0.001dpcm) {
+    #videoliabrary1 .vidolib-scroll:hover {
+      height: 100%;
+      overflow-y: none !important;
+      overflow-x: hidden;
+    }
+    #schoolAdminSidebar .makeStyles-drawerContainer-5:hover {
+      overflow-y: hidden !important;
+    }
+  }
+  
+  @media screen and (-webkit-min-device-pixel-ratio: 0) {
+    #videoliabrary1 .vidolib-scroll:hover {
+      height: 100%;
+      overflow-y: none !important;
+      overflow-x: hidden;
+    }
+    #schoolAdminSidebar .makeStyles-drawerContainer-5:hover {
+      overflow-y: hidden !important;
+    }
+  }
+  .editeventpopup {
+  }
+  #dialogBoxUpdateEvent .MuiDialogTitle-root {
+    flex: 0 0 auto;
+    margin: 0;
+    padding: 8px 24px !important;
+    overflow-y: hidden !important;
+  }
+  #dialogBoxCreateEvent .MuiDialogTitle-root {
+    flex: 0 0 auto;
+    margin: 0;
+    padding: 6px 24px !important;
+    overflow-y: hidden !important;
+  }
+  .updatemsg {
+    width: 220px;
+    margin: 0 auto;
+  }
+  .btnfieldcenter {
+    position: relative;
+    width: inherit;
+    text-align: start !important;
+    padding-left: 25px !important;
+    outline: none !important;
+    border: none !important;
+    display: inherit !important;
+    background-color: transparent !important;
+  }
+  .select-new {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    padding-top: 10px !important;
+    border: none;
+  }
+  
+  /* athelete pop up */
+  .dropdown-content.addathlete-dropdown {
+    position: absolute;
+    top: 38px !important;
+    z-index: 11 !important;
+    min-width: 180px;
+    padding: 5px 0!important;
+    background-color: #002244;
+    outline: none !important;
+    border: none !important;
+    /* min-width: 100% !important; */
+  }
+  .menuitem1 {
+    width: 100%;
+    padding: 5px 10px 0px 0px;
+  }
+  .menuitem1:hover {
+    background-color: #ccc;
+    width: 100%;
+    padding: 5px 10px 0px 0px;
+  }
+  .headingtxt1 {
+    font-family: "Rajdhani-SemiBold";
+    font-size: 18px;
+  }
+  
+  .has-search .form-control {
+    padding-left: 2.375rem;
+  }
+  
+  .has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+  }
+  #dialogboxLink .MuiDialog-paperWidthSm {
+    width: auto !important;
+  }
+  .btn-SEND {
+    background: #002244 0% 0% no-repeat padding-box !important;
+    border-radius: 0px 4px 4px 0px !important;
+    opacity: 1 !important;
+    color: white !important;
+    padding: 5px !important;
+    width: 70px;
+    font-size: 18px !important;
+    font-family: "Rajdhani-SemiBold";
+  }
+  .textboxlink {
+    font-size: 16px !important;
+    font-family: "Rajdhani-SemiBold";
+  }
+  .textboxlink::placeholder {
+    font-size: 16px !important;
+    font-family: "Rajdhani-SemiBold";
+  }
+  .qrdwnldtxt {
+    font-family: "Rajdhani-SemiBold";
+    color: #797979;
+  }
+  .dwnldtxt {
+    letter-spacing: 0px;
+    color: #002244;
+    opacity: 1;
+    font-family: "Rajdhani-SemiBold";
+  }
+  .clear20 {
+    clear: both;
+    height: 20px;
+  }
+  .uploadcsvtxt {
+    font-size: 16px;
+    font-family: "Rajdhani-Regular";
+  }
+  .greybox {
+    background: #f7f7f7 0% 0% no-repeat padding-box;
+    border: 2px dashed #d6d6d6;
+    border-radius: 5px;
+    opacity: 1;
+    padding: 20px;
+  }
+  .btn-upload {
+    background: #002244 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    background-image: url("../../assets/images/uparrow.svg");
+    color: white;
+    width: 120px;
+    height: 40px;
+    outline: none;
+    border: 1px solid #002244;
+    background-position-x: 10px;
+    background-position-y: 10px;
+    padding-left: 20px;
+  }
+  .btnlink {
+    border: 1px solid #ccc !important;
+  }
+  .groupmember-box {
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+    margin: 0 auto;
+    width: fit-content;
+  }
+  .billing-notification{
+    color: black !important;
+  
+  }
+  .billing-notification:hover {
+    background-color: #d5bdbd5a;
+    border-radius: 8px;
+  }
+  
+  .switchschlIMG {
+    width: 100%;
+    height: 55px !important;
+  }
+  .openschoolTEXT {
+    color: #2c9d69;
+  }
+  .content-layoutBill {
+    margin: 0px !important;
+  }
+  .greyboxnew {
+    background: #fafafa 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+    padding: 10px 10px 0px 10px;
+    text-align: center;
+  }
+  .orangeboxheader {
+    background: #fc4b6c 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    height: 45px !important;
+    opacity: 1;
+    padding: 7px;
+    text-align: center;
+  }
+  .redtext {
+    color: #ff5d5d;
+  }
+  
+  #groupdialogBox .MuiDialog-scrollPaper {
+    display: block !important;
+  }
+  .membertype {
+    font-size: 18px;
+    font-family: "Rajdhani-SemiBold";
+    color: black;
+  }
+  .profile-container{
+    padding-top: 7rem !important;
+    padding-left: 25px !important;
+  }
+  .black {
+    color: black;
+    padding-left: 5px;
+  }
+  .max-content {
+    width: max-content;
+  }
+  .dropdown-content.coaches {
+    min-width: auto !important;
+  }
+  .dropdown-content.ddstyle {
+    position: absolute;
+    top: 0px;
+  }
+  #dialogBoxcameras {
+    width: 600px;
+    height: 432px;
+    margin-top: 7% !important;
+    margin: 0 auto;
+  }
+  #dialogBoxcameras .MuiDialog-scrollPaper {
+    display: block;
+  }
+  #dialogBoxcameras .MuiDialog-paper {
+    overflow-y: hidden;
+  }
+  .openschoolTEXT {
+    display: flex;
+    width: 500px;
+    background-color: white;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid lightgray;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .openschoolTEXTnew {
+    display: flex;
+  
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .post_image {
+    max-width: 500px;
+  }
+  .post_text {
+    margin: 20px 0px 20px 20px;
+  }
+  .post_form {
+    display: flex;
+    margin-top: 20px;
+  }
+  .post_input {
+    width: 100%;
+    height: 40px;
+    border: 1px solid lightgray;
+    border-radius: 25px 0px 0px 25px;
+    padding-left: 20px;
+  }
+  
+  .post_input:hover {
+    outline: none;
+  }
+  .post_input:focus {
+    border: 1px solid lightgray !important;
+    box-shadow: none !important;
+  }
+  .post_commentbox {
+    margin: 15px;
+  }
+  .postBTN {
+    height: 100%;
+    width: 100%;
+    border: 1px solid lightgray;
+    outline: none;
+    border-radius: 0px 25px 25px 0px;
+  }
+  .post_input .MuiOutlinedInput-root {
+    border-radius: 25px 0px 0px 25px !important;
+  }
+  .morecomment {
+    letter-spacing: 0px;
+    color: #067df4;
+    opacity: 1;
+    font-size: 16px;
+    font-family: "Rajdhani-SemiBold";
+    background: transparent;
+    border: none;
+    outline: none;
+  }
+  .padIn15 {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+  }
+  .commentname {
+    letter-spacing: 0px;
+    color: #343434;
+    opacity: 1;
+    font-size: 18px;
+    font-family: "Rajdhani-Bold";
+    display: flex;
+  }
+  .timecomment {
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+    font-size: 14px;
+    font-family: "Rajdhani-SemiBold";
+    padding-left: 12px;
+    padding-top: 3px;
+    list-style-type: none;
+  }
+  .commentsubtext {
+    letter-spacing: 0px;
+    color: #575757;
+    opacity: 1;
+    font-size: 18px;
+    font-family: "Rajdhani-Medium";
+  }
+  .timezone {
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 0.42;
+    font-size: 14px;
+    font-family: "Rajdhani-Medium";
+  }
+  .btn-back {
+    background: #067df4 !important;
+    border-radius: 7px;
+    opacity: 1;
+    font-size: 16px;
+    font-family: "Rajdhani-SemiBold";
+    color: white;
+    width: 173px;
+    height: 36px;
+    outline: none;
+    border: inherit;
+  }
+  .w130 {
+    width: 130px;
+    height: 130px;
+  }
+  .getback {
+    position: relative;
+    right: 10px;
+  }
+  .dblack {
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+  .medium {
+    padding-left: 5px;
+    font-family: "Rajdhani-Medium";
+  }
+  .coach-innerHeader {
+    position: fixed !important;
+    width: 100% !important;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #d8d8d829;
+    opacity: 1;
+    height: 80px;
+    padding: 18px 0px;
+    z-index: 1;
+    margin-top: -40px;
+  }
+  .profile-header{
+    /* position: fixed !important; */
+    width: 100% !important;
+    background: #ffffff 0% 0% no-repeat padding-box; 
+    box-shadow: 0px 3px 6px #d8d8d829;
+    opacity: 1;
+    height: auto !important; 
+    /* padding:0px !important; */
+    z-index: 1;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* height: 60px; */
+    /* margin-bottom: 15px; */
+    /* padding: 15px 0px 15px 0px; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 35px !important;
+    /* z-index: 10; */
+  }
+  .addSchool-innerHeader {
+    position: fixed !important;
+    width: 100% !important;
+    background: #ffffff 0% 0% no-repeat padding-box; 
+    box-shadow: 0px 3px 6px #d8d8d829;
+    opacity: 1;
+    height: auto !important; 
+    padding:0px !important;
+    z-index: 1;
+  }
+  #coachHeader .addSchool-innerHeader {
+    position: fixed !important;
+    width: 100% !important;
+    background: #ffffff 0% 0% no-repeat padding-box; 
+    box-shadow: 0px 3px 6px #d8d8d829;
+    opacity: 1;
+    height: 80px;
+    padding: 12px 0px;
+    z-index: 1;
+    top: 0;
+  }
+  .edit-profile{
+  padding-left: 20px !important;
+  }
+  
+  
+  .addSchool-innerHeaderAthelete {
+    position: fixed !important;
+    width: 100% !important;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #d8d8d829;
+    opacity: 1;
+    height: 70px;
+    padding: 7px 0px 0px 0px;
+    z-index: 1;
+  }
+  .addSchool-innerHeadernew {
+    position: fixed !important;
+    width: 100% !important;
+    background: #ffffff 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #d8d8d829;
+    opacity: 1;
+    height: 80px;
+    padding: 12px 0px;
+    z-index: 1;
+    margin-top: -40px;
+  }
+  .row.m-0.margin-80new {
+    margin-top: 4rem !important;
+  }
+  .padtop25 {
+    padding-top: 20px !important;
+  }
+  
+  .pf-school{
+  padding-top: 20px;
+    padding-right: 0px !important;
+  }
+  .pftext {
+    position: relative;
+    top: 10px;
+    padding-right: 30px !important;
+    /* top: 7px; */
+  }
+  .circleimage {
+    position: absolute;
+    top: 11px;
+    left: 0px;
+  }
+  .instruct_txt {
+    text-align: left;
+    font-family: "Rajdhani-Medium";
+    letter-spacing: 0px;
+    font-size: 16px;
+    color: #000000;
+    opacity: 1;
+    font-weight: 600;
+  }
+  .instruct_para {
+    text-align: left;
+    font-family: "Rajdhani-Medium";
+    letter-spacing: 0px;
+    font-size: 16px;
+    color: #868686;
+    opacity: 1;
+  }
+  .instruct_paralist {
+    list-style-type: decimal;
+    color: #868686;
+    padding-left: 15px;
+    font-family: "Rajdhani-Regular";
+    letter-spacing: 0px;
+    font-size: 16px;
+  }
+  .camlist {
+    color: #868686;
+    font-family: "Rajdhani-Regular";
+  }
+  .instructionbox {
+    width: 100%;
+    height: 450px;
+    overflow-y: scroll;
+    padding-right: 20px;
+    border-radius: 11px;
+    /* border: 1px solid white; */
+    text-align: justify;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 4%) 0px 3px 5px;
+  }
+  .Box.padIn15 {
+    padding-left: 28px !important;
+  }
+  img.details-profile.img-fluid {
+    height: 100px;
+    border-radius: 50%;
+    width: 100px;
+    /* object-fit: cover; */
+  }
+  .pos-25 {
+    position: relative;
+    left: -55px;
+    top: 8px;
+  }
+  .pos-25team {
+    position: relative;
+    left: -70px;
+    top: 0px;
+  }
+  .profile-img{
+    margin-left: 10px;
+  }
+  
+  .circular {
+    width: 100%;
+    height: 100px;
+    border-radius: 50%;
+    position: relative;
+    overflow: visible;
+  }
+  .circular img {
+    min-width: 100px;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    /* object-fit: cover; */
+  }
+  .circular-edit {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    position: relative;
+    overflow: visible;
+  }
+  .circular-edit img {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+  }
+  .pos-20 {
+    position: relative;
+    top: 12px;
+  }
+  .mt-12.pos-30 {
+    position: relative;
+    top: 15px;
+  }
+  #schoolAdminSidebar .MuiDrawer-paper {
+    z-index: 2 !important;
+  }
+  .mar-40 {
+    margin-left: 40px;
+  }
+  /* #userProfile {
+    z-index: 20!important;
+  } */
+  .scroo-bar {
+    height: 400px;
+    overflow-y: scroll;
+    padding-right: 15px;
+  }
+  #notificationList .notificationTABS.active {
+    background: #f5d8ff !important;
+    opacity: 1;
+    padding: 15px !important;
+    border-left: 5px solid #003594;
+    border-bottom: 1px solid #ccc;
+  }
+  #notificationList .notificationTABS {
+    padding: 15px !important;
+    border-bottom: 1px solid #ccc;
+  }
+  .sticky {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    font-size: 20px;
+    z-index: 3;
+  }
+  #notificationList .MuiPopover-paper {
+    top: 20px !important;
+    left: auto !important;
+    right: 30px;
+    width: 350px !important;
+  }
+  .shareselect {
+    appearance: none;
+    background: url(./images/downarrow.svg) no-repeat;
+    background-position-x: 93%;
+    background-position-y: 50%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    width: 100% !important;
+    padding-left: 25px !important;
+  }
+  .specialselect {
+    appearance: none;
+    background: url(./images/downarrow.svg) no-repeat;
+    background-position-x: 95%;
+    background-position-y: 50%;
+    white-space: nowrap;
+    overflow: hidden !important;
+    text-overflow: ellipsis;
+    width: 100% !important;
+  }
+  #dialogBoxLINK .MuiDialog-paperWidthSm {
+    max-width: 500px !important;
+    width: 500px;
+  }
+  #dialogBoxQR .MuiDialog-paperWidthSm {
+    max-width: 500px !important;
+    width: 500px;
+  }
+  #dialogBoxCSV .MuiDialog-paperWidthSm {
+    max-width: 500px !important;
+    width: 500px;
+  }
+  button.btn-download {
+    position: relative;
+    top: 6px;
+    border: none;
+    background: transparent;
+    font-size: 18px;
+    font-family: "Rajdhani-Medium";
+  }
+  button.btn-sharevideo {
+    background: #002244 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+    outline: none;
+    color: white;
+    font-family: "Rajdhani-SemiBold" !important;
+    padding: 5px;
+    border: 1px solid #002244;
+    width: 130px;
+    font-size: 18px;
+  }
+  .rdrDefinedRangesWrapper {
+    display: none;
+  }
+  
+  .annotationbtn {
+    outline: none;
+    height: 35px;
+    background: #002244 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+    outline: none;
+    font-family: "Rajdhani-SemiBold" !important;
+    font-size: 16px;
+    color: #ffffff;
+    border: none;
+  }
+  .gray-out {
+    opacity: 0.7;
+  }
+  .warningbox {
+    background: #fc4b6c 0% 0% no-repeat padding-box;
+    border: 1px solid #ffab26;
+    border-radius: 4px;
+    opacity: 1;
+    padding: 0px 3px;
+    margin-top: -5px;
+    color: white;
+  }
+  
+  .react-datepicker-popper {
+    z-index: 2 !important;
+  }
+  .nodatabox {
+    font-size: 18px;
+    font-family: "Rajdhani-SemiBold";
+    color: #000000;
+  }
+  .nodatabox2 {
+    font-size: 18px;
+    font-family: "Rajdhani-SemiBold";
+    color: #000000;
+  }
+  .linktextbox {
+    width: 90%;
+    height: 40px;
+    border-right: none;
+    outline: none;
+    border: 1px solid #cccc;
+    padding: 0.375rem 0.75rem;
+    font-size: 16px;
+    font-family: "Rajdhani-SemiBold";
+  }
+  .linktextbox:focus {
+    border: 1px solid #cccc;
+  
+    outline: none;
+  }
+  .btnlinkCopy {
+    outline: none;
+    border: 1px solid #cccc;
+    padding: 6px 6px 7px 6px;
+    height: 40px;
+  }
+  .btnlinkCopy:focus {
+    outline: none;
+  }
+  #BillingTable td {
+  }
+  
+  .mrtopbottom {
+    margin-top: -5px;
+  }
+  .ml-240 {
+    margin-left: 240px !important;
+  }
+  #dialogboxShare .MuiDialog-paperWidthSm {
+    width: 355px;
+  }
+  #dialogboxShare .MuiDialogContent-root {
+    padding: 8px 15px !important;
+  }
+  
+  /* HEIGHLIGHTS PAGE */
+  .content-heighlight {
+    margin: 64px 0 0 260px;
+    padding: 20px;
+    flex-grow: 1;
+  }
+  .searchHeighlight {
+    font-size: 16px;
+    font-family: "Rajdhani-Medium";
+    letter-spacing: 0px;
+    color: #343434;
+    background: white;
+    border-radius: 7px;
+    background-image: url("../../assets/images/searchicon.svg");
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y: 13px;
+  }
+  .align-self {
+    align-self: center;
+  }
+  #FilterHighlight .MuiDialog-paperWidthSm {
+    max-width: 100% !important;
+    width: 500px;
+  }
+  
+  #FilterHighlight .MuiDialogTitle-root {
+    flex: 0 0 auto;
+    margin: 0;
+    padding: 10px 24px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #ccc;
+  }
+  #Highlightsend .MuiDialog-paperWidthSm {
+    max-width: 100% !important;
+    width: 355px;
+  }
+  #Highlightsend .MuiDialogTitle-root {
+    flex: 0 0 auto;
+    margin: 0;
+    padding: 10px 24px;
+    padding-bottom: 3px;
+    border-bottom: 1px solid #ccc;
+  }
+  .opacity07 {
+    opacity: 0.7;
+  }
+  #Card_Hlight .card-footer {
+    background-color: #f4f4f4;
+    padding: 10px 8px;
+  }
+  #dotDROPDOWN .dropdown-content {
+    position: absolute;
+    top: -80px;
+    right: -42px;
+    background-color: #f9f9f9;
+    min-width: max-content;
+    box-shadow: 0px 8px 16px 0px rgb(0 0 0 / 20%);
+    padding: 12px 16px;
+    z-index: 1;
+    width: 200px;
+    border-radius: 11px;
+  }
+  .delicon-new {
+    width: 10px;
+    height: 10px;
+    position: relative;
+    top: 8px;
+  }
+  .shareICON {
+    position: relative;
+    top: -4px;
+  }
+  /* delete pop up */
+  #DeleteSchoolPopup .MuiDialog-paperWidthSm {
+    max-width: 100% !important;
+    width: 355px;
+  }
+  .DeleteBTN {
+    background: #fe6161 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 22px;
+    opacity: 1;
+    letter-spacing: 0px;
+    color: #ffffff;
+    font-family: "Rajdhani-SemiBold" !important;
+    outline: none;
+    width: 107px;
+    height: 38px;
+    border: 1px solid #002244;
+    border: none;
+  }
+  #DeleteSchoolPopup .MuiDialogTitle-root {
+    flex: 0 0 auto;
+    margin: 0;
+    padding: 11px 20px;
+    border-bottom: 1px solid #cccc;
+    padding-bottom: 0;
+  }
+  #highlight_S_create .top-strip {
+    height: 60px;
+  }
+  .CHbox {
+    background: #ffffff 0% 0% no-repeat padding-box !important;
+    border: 1px solid #eeeeee;
+    border-radius: 11px;
+    opacity: 1;
+    margin-top: 15%;
+  }
+  .btnProceesnext {
+    background: #2c9d69 0% 0% no-repeat padding-box;
+    border-radius: 22px;
+    opacity: 1;
+    border: none;
+    color: white;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+  }
+  .CHgreybox {
+    background: #f8f8f8 0% 0% no-repeat padding-box;
+    border: 1px solid #f1f1f1;
+    border-radius: 5px;
+    opacity: 1;
+    padding: 30px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #clipSelect .card-body {
+    padding: 30px 50px !important;
+  }
+  .justify-even {
+    justify-content: space-evenly;
+  }
+  .CHht-50
+  {
+    height: 50px;
+  }
+  .d-contents
+  {
+    display: contents;
+  }
+  .btnBackHighlight
+  {
+    background: #E8E8E8 0% 0% no-repeat padding-box;
+  border-radius: 29px;
+  opacity: 1;
+  border: none;
+  outline: none;
+  width: 100%;
+  background-image: url('../../assets/images/CHbackarrow.svg');
+  background-repeat: no-repeat;
+  height: 50px;
+  background-position-x: 40px;
+  font-size: 20px;
+  background-position-y: 9px;
+  padding-left: 50px;
+  cursor: pointer;
+  
+  }
+  .linkhoverW:hover
+  {
+    color: white;
+  }
+  .linkhoverB:hover
+  {
+    color: black;
+  }
+  .mTop
+  {
+    padding-top: 80px;
+    padding-left: 25px;
+      padding-right: 25px;
+  }
+  .cardSelectEvent {
+    height: 100%;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EEEEEE;
+    border-radius: 11px!important;
+    opacity: 1;
+  }
+  #CardEVENT .card-header:first-child {
+    border-radius: 11px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+  }
+  .teamBOX
+  {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #D9D9D9;
+  border-radius: 7px;
+  opacity: 1;
+  padding: 10px;
+  margin-bottom :15px;
+  }
+  #CardEVENT .card-body
+  {
+    padding: 15px!important;
+  
+    padding-right: 15px!important;
+  }
+  .scroll{
+    height: 400px;
+    overflow-y: scroll;
+    padding-right: 10px;
+  }
+  #CardEVENT .card-header{
+    background-color: white;
+  }
+  .teamBOX.active{
+    border: 1px solid #003594;
+  }
+  .checkmarknew {
+    position: absolute;
+   
+    height: 25px;
+    width: 25px;
+    border: 1px solid #cccccc;
+    border-radius: 0%;
+    margin-top:4px;
+  }
+  
+  /* On mouse-over, add a grey background color */
+  input ~ .checkmarknew {
+    background-color: #002244;
+  }
+  
+  /* When the checkbox is checked, add a blue background */
+   input:checked ~ .checkmarknew {
+    background-color: #002244;
+  }
+  
+  /* Create the checkmark/indicator (hidden when not checked) */
+  .checkmarknew:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+  
+  /* Show the checkmark when checked */
+   input:checked ~ .checkmarknew:after {
+    display: block;
+  }
+  
+  /* Style the checkmark/indicator */
+   .checkmarknew:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .boxWhite
+  {
+    background-color: white;
+    
+  }
+  #CardEVENT2 .card-header
+  {
+    background-color: transparent;
+    border-bottom: none;
+  }
+  .mergeCLIPbtn
+  {
+    background: #2C9D69 0% 0% no-repeat padding-box;
+  border-radius: 22px;
+  opacity: 1;
+  border: none;
+  outline: none;
+  width: 119px;
+  height: 34px;
+  }
+  .topMAR
+  {
+    padding: 20%;
+    background-color: black;
+    height: 100vh;
+  }
+  .pdfDONEbtn
+  {
+    background-color: transparent;
+    border: none;
+    font-size: 40px;
+    font-family:'Rajdhani-SemiBold';
+      color: white;
+  }
+  
+  #edit-Video-Table table:hover
+  {
+    background-color: #ddd;
+  }
+  
+  #edit-Video-Table .table td
+  {
+    border-top: none!important;
+  }
+  @media (min-width:1500px)
+  {
+    .vl-savebtnm
+    {
+      position: relative;
+      right: -3rem;
+    }
+  }
+  .mergeBTNrow
+  {
+    justify-content: end;
+    margin-right: 11px;
+  }
+  .padBottom
+  {
+    padding-bottom: 20px;
+  }
+  #mobileNavbar
+  {
+    display: none!important;
+  }
+  .mobileCancel
+  {
+    display: block;
+  }
+  #canceBTN_mob
+  {
+    display: none;
+  }
+  .btnright
+  {
+    text-align: right;
+  }
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 733px) {
+    #CoachDatepicker .react-datepicker__close-icon
+    {
+  
+    }
+      #CoachDatepicker{
+      margin-top: -7px;
+      width: 100% ;
+    }
+  /* .mobofont22{
+    width: 100% ;
+  } */
+    .divone {
+      width: 11%!important;
+      border-right: 1px solid #c9c9c9;
+      display: inline-block;
+      height: 40px;
+  }
+    .divtwo {
+      width: 11%!important;
+      border-right: 1px solid #c9c9c9;
+      display: inline-block;
+      height: 40px;
+  }
+    .divthree {
+      width: 25%!important;
+      border-right: 1px solid #c9c9c9;
+      display: inline-block;
+      height: 40px;
+  }
+  
+    .divfour {
+      width: 18%!important;
+      border-right: 1px solid #c9c9c9;
+      display: inline-block;
+      height: 40px;
+  }
+    .video-box-new {
+      background: #ffffff 0% 0% no-repeat padding-box;
+      box-shadow: 0 1px 2px rgb(0 0 0 / 14%);
+      padding: 15px;
+      margin: 0!important;
+      border-radius: 7px;
+      padding-bottom: 105px;
+      margin-bottom: 15px!important;
+  }
+    .details-profile-stylecoach {
+      height: 100px !important;
+      width: 110px;
+      border-radius: 50%;
+      object-fit: cover;
+  }
+    .mbfs24
+    {
+      font-size: 18px!important;
+    }
+    .pt-28 {
+      padding-top: 20px!important;
+  }
+    .mbfs20
+    {
+      font-size: 16px!important;
+    }
+    .mobofs36
+    {
+      font-size: 22px!important;
+    }
+    .coachCount {
+      font-size: 16px!important;
+      text-align: left;
+      font-weight: 600;
+      letter-spacing: 0px;
+      color: #291C2E;
+      opacity: 0.42;
+  }
+    #mobileNavbar .nav-menu.active {
+      /* background: #F7F7F7; */
+      background-color: #fafafa;
+      left: 0px;
+      opacity: 1;
+      transition: all 0.5s ease;
+      z-index: 99999;
+      overflow-y: scroll;
+      height: 100vh;
+      min-height: 600px;
+      max-height: 950px;
+  }
+    #mobileNavbar .nav-item {
+      line-height: 25px!important;
+      margin-right: 0;
+  }
+  #respo-dropdown ul li {
+    list-style-type: none;
+    padding: 3px!important;
+    font-weight: normal;
+  }
+    #mobileNavbar .nav-links {
+      width: 100%;
+      display: table;
+      font-size: 20px;
+      font-family: 'Rajdhani-Medium';
+      font-weight: normal;
+      padding-top: 8px!important;
+      padding-bottom: 0px!important;
+  }
+    .mobofs18
+    {
+      font-size: 15px!important;
+    }
+    .totalNumber {
+     
+      font-size: 40px!important; 
+  }
+  div#mobodatePicker {
+    justify-content: flex-start!important;
+  }
+  
+  
+  .AddCoachMB
+  {
+    padding-left: 15px;
+    padding-right: 15px!important;
+    float: right!important;
+  }
+  form#editCoachDetails {
+    margin-top: -5rem;
+  }
+  .d-contents
+  {
+    display: contents;
+  }
+  .backbtn {
+    background: #f3f3f3 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border-radius: 50%;
+    padding: 7px!important;
+    margin-right: 4px!important;
+  }
+  .mobofont30
+  {
+    font-size: 24px!important;
+  }
+  .pos-25 {
+    position: relative;
+    left: 0!important;
+    top: 8px;
+  }
+  .mbHW
+  {
+    width: 15px;
+    height: 15px;
+  }
+    .mrtopRes
+    {
+      /* margin-top: 80px!important; */
+    }
+    .search-icon-new
+    {
+      padding-left: 10%!important;
+    }
+    .plpr-4
+    {
+      padding-left: 0px!important;
+      padding-right: 0px!important;
+    }
+    .main-card-box
+    {
+      margin-bottom: 50px!important;
+    }
+    .w-28
+    {
+      width: 100%!important;
+    }
+    .plrDESK
+  {
+    padding-right: 0px!important;
+  }
+    .plprMOB
+    {
+      padding-left: 15px;
+    }
+    .p15 {
+      padding: 0!important;
+  }
+  .plrDM {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-top: 25px;
+  }
+  .savebtn
+  {
+    width: 90px!important;
+  }
+  .cancelbtn
+  {
+    width: 90px!important;
+  }
+  .video-box
+  {
+    margin-bottom: 1rem!important;
+  }
+    .search-icon {
+    
+      padding-left: 6%;
+  }
+  .cardSelectEvent {
+    height: auto!important;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #EEEEEE;
+    border-radius: 11px!important;
+    opacity: 1;
+    margin-top: 2rem!important;
+  }
+  .pl-213 {
+    padding-left: 1rem!important;
+    padding-right: 1rem!important;
+    margin-top: 3rem!important;
+  }
+  .vidlab-search {
+    height: 53px;
+    width: 100%;
+    border: 1px solid #e9e9e9;
+    outline: none;
+   
+    background-position: 4%!important;
+    padding-left: 14% !important;
+    background-repeat: no-repeat;
+    font-size: 20px;
+  }
+  .padleft-40
+  {
+    padding-left: 0px!important;
+  }
+  #videoliabrary1
+  {
+    display: none!important;
+  }
+  #CardEVENT2
+  {
+    margin-top: 2rem!important;
+  }
+  .moboplr
+  {
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+  }
+    .profile-section{
+      background-color: white;
+      margin-right: 0!important;
+      border-top: 1px solid #dccc;
+      border-bottom: 1px solid #dccc;
+      text-align: initial;
+    }
+    .mbMargin
+    {
+      margin-bottom: 10px;
+    }
+    .btnBackHighlight {
+      background: #E8E8E8 0% 0% no-repeat padding-box;
+      border-radius: 29px;
+      opacity: 1;
+      border: none;
+      outline: none;
+      width: 300px!important;
+      background-image: url(../../assets/images/CHbackarrow.svg);
+      background-repeat: no-repeat;
+      height: 50px;
+      background-position-x: 40px;
+      font-size: 20px;
+      background-position-y: 9px;
+      padding-left: 50px;
+      cursor: pointer;
+  }
+  .content-layout {
+    margin: 64px 0!important;
+    flex-grow: 1;
+  }
+  .moboMargin-5
+  {
+    /* margin-top: 5rem; */
+  }
+  .mobod-flex
+  {
+    display: flex;
+  }
+    .btnProceesnext {
+      background: #2c9d69 0% 0% no-repeat padding-box;
+      border-radius: 22px;
+      opacity: 1;
+      border: none;
+      color: white;
+      font-size: 20px;
+      width: 150px!important;
+      height: 50px;
+  }
+    .CHbox {
+      background: #ffffff 0% 0% no-repeat padding-box !important;
+      border: 1px solid #eeeeee;
+      border-radius: 11px;
+      opacity: 1;
+      margin-top: 19%!important;
+  }
+    .mobselfAlign
+    {
+      align-self: center;
+      margin-top: 0px!important;
+    }
+    .mobohideEdit
+    {
+      display: none;
+    }
+    
+    #mobTop-5
+    {
+      /* margin-top: 5rem; */
+    }
+    .mobDContents
+    {
+      display: contents!important;
+    }
+  #canceBTN_mob
+  {
+    display: block!important;
+  }
+    .MuiContainer-root
+    {
+      overflow-x: hidden!important;
+    }
+    .mobileCancel
+    {
+      display: none!important;
+    }
+    .mobileself-align
+    {
+      align-self: center;
+    }
+    .mobileScroll
+    {
+      overflow-y: scroll;
+      /* height: 100vh;
+      min-height: 500px;
+      max-height: 900px; */
+      /* height: auto;
+      margin-top: 4rem; */
+      
+    }
+    .mobofont22
+    {
+      font-size: 15px!important;
+    }
+    .mobopad.MuiGrid-spacing-xs-3 > .MuiGrid-item
+    {
+      padding: 0px!important;
+    }
+    #coachDate .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+      padding: 0px;
+  }
+    .react-datepicker-wrapper {
+      display: inline-block;
+      padding: 0;
+      border: 0;
+      width: 100%!important;
+  }
+  #mobileNavbar .nav-logo {
+    align-items: center;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    flex-grow: 1;
+    display: inline-flex!important;
+  }
+  .white-card
+  {
+    height: 100%!important;
+  }
+  .mobofs20
+  {
+    font-size: 16px!important;
+  }
+  .mobofs-60
+  {
+    font-size: 40px!important;
+  }
+  
+    #userProfile .MuiToolbar-regular
+    {
+      display: none;
+    }
+    div#schoolAdminSidebar .MuiPaper-root
+    {
+      display: none;
+    }
+    .content-layot {
+      margin: 70px 0 0 0!important;
+      padding: 20px;
+      flex-grow: 1;
+  }
+  #deskSection
+  {
+    display: none!important;
+  }
+  #hideUpcoming
+  {
+    display: none!important;
+  }
+  .makeStyles-drawer-3 {
+    width: fit-content!important;
+    flex-shrink: 0;
+  }
+  .plpr-0
+  {
+    padding: 0px!important;
+  }
+  .card-box-mobile
+  {
+    background-color: white;
+    padding: 10px 6px;
+    text-align: center;
+  }
+  .wh-29
+  {
+    width: 29px;
+    height: 21px;
+  }
+  .fs-13
+  {
+    font-size: 13px!important;
+  }
+  .padBottom
+  {
+    padding-bottom: 0px!important;
+  }
+  #mobileUpload
+  {
+    display: block!important;
+    margin-top: 0px!important;
+  }
+  #mobileNavbar
+  {
+    display: block!important;
+  }
+  .mobopr-4 {
+    padding-right: 15px !important;
+  }
+  .moboplpr-0
+  {
+    padding: 0px!important;
+    /* margin-top: 5rem; */
+  }
+  
+  .mobofs16
+  {
+    font-size: 14px!important;
+  }
+  .mobohideIMG
+  {
+    display: none!important;
+  }
+  /* .main-card-box
+  {
+    height: 100%!important;
+    min-height: 280px!important;
+    max-height: 350px!important;
+  } */
+  .w-70 {
+    width: 100%!important;
+    padding-left: 2%;
+  }
+  .mpadL
+  {
+    padding-left: 16px;
+  }
+  .pagination {
+    margin: -2px!important;
+  }
+  #mobileHideSearch
+  {
+    display: none!important;
+  }
+  
+  }
+  
+  .mobohideIMG
+  {
+    display: block;
+  }
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (max-width: 768px) {
+  
+    .profile-container{
+      padding-left: 20px !important;
+    }
+  
+    .edit-profile{
+      /* padding-left: 20px !important; */
+      }
+      .school-nm{
+        padding-left: 30px !important;
+    
+      }
+  
+  }
+  .mrdesk4
+  {
+    margin-left: 0.5rem;
+  }
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+  
+    #schoolAdminSidebar .makeStyles-drawerPaper-4 {
+      color: #575757;
+      width: 240px !important;
+  }
+  .fs-22
+  {
+    font-size: 20px!important;
+  }
+  .mrdesk4
+  {
+    padding-right: 12px!important;
+  }
+  .content-layot {
+    margin: 64px 0 0 240px!important;
+    padding: 20px;
+    flex-grow: 1;
+  }
+  .searchevent-text
+  {
+    padding-left: 45px;
+  }
+  }
+  .pages {
+    color: #316685;
+    text-align: center;
+    font-size: calc(1.5rem + 2vw);
+    margin-top: 10%;
+    
+   
+  }
+  
+  #mobileNavbar .navbar {
+    background-color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  
+  #mobileNavbar .nav-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    max-width: 1500px;
+  }
+  
+  #mobileNavbar .main-container{
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    background-color:rgba(0,0,0,0.3);
+  }
+  
+  #mobileNavbar .nav-logo {
+    
+    align-items: center;
+   
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 2rem;
+    flex-grow: 1;
+  }
+  
+  #mobileNavbar .nav-menu {
+    display: flex;
+    list-style: none;
+    text-align: left;
+    margin-right: 2rem;
+  }
+  
+  #mobileNavbar .nav-links {
+    color: black;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    height: 100%;
+    border-bottom: 3px solid transparent;
+  }
+  .fa-code {
+    margin-left: 1rem;
+  }
+  
+  #mobileNavbar .nav-item {
+    line-height: 40px;
+    margin-right: 0;
+  }
+  .res-vidolib
+  {
+    background-color: #ccc;
+    padding: 12px 30px;
+  }
+  #mobileNavbar .nav-item:after {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 0;
+    background: transparent;
+    transition: width 0.7s ease, background-color 0.5s ease;
+  }
+  
+  /* #mobileNavbar .nav-item:hover:after {
+    width: 100%;
+    background: #ffdd40;
+  }
+  
+  #mobileNavbar .nav-item.active {
+    color: #ffdd40;
+    border: 1px solid #ffdd40;
+  } */
+  
+  .nav-icon {
+    display: none;
+  }
+  
+  @media screen and (max-width: 960px) {
+    
+    #mobileNavbar .nav-menu {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      border-top: 1pxsolid #fff;
+      position: absolute;
+      top: 80px;
+      left: -110%;
+      opacity: 1;
+      transition: all 0.5s ease;
+    }
+  
+    #mobileNavbar .nav-menu.active {
+      background: #F7F7F7;
+      left: 0px;
+      opacity: 1;
+      transition: all 0.5s ease;
+      z-index: 1;
+    }
+    #mobileNavbar .nav-item .active {
+      color: black;
+      border: none;
+      background-color: #EDEDED;
+    }
+   #mobileNavbar .nav-links {
+      /* padding: 1.5rem; */
+      width: 100%;
+      display: table;
+      font-size: 20px;
+      font-family: 'Rajdhani-Medium';
+      font-weight: normal;
+    }
+    #respo-dropdown ul li {
+      list-style-type:none;
+      padding: 10px;
+      font-weight: normal;
+    }
+    .manage-pleft
+    {
+      padding: 0.5rem 1rem;
+    }
+    /* .fs-24
+    {
+      font-size: 16px!important;
+    } */
+    .moboTopTXT
+    {
+      padding-top: 11px;
+    }
+    .addBtn {
+      width: auto !important;
+      background: #002244 !important;
+      border-radius: 22px !important;
+      opacity: 1;
+      color: #ffffff !important;
+      font-family: "Rajdhani-SemiBold" !important;
+  }
+  .searchHeighlight {
+    font-size: 14px!important;
+    font-family: "Rajdhani-Medium";
+    letter-spacing: 0px;
+    color: #343434;
+    background: white;
+    border-radius: 7px;
+   
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y: 15px!important;
+    background-size: 15px!important;
+  }
+  .mbfs-14
+  {
+    font-size: 14px!important;
+  }
+  #tabs .MuiTab-textColorPrimary {
+    color: black;
+    font-size: 14px !important;
+    font-family: "Rajdhani-Medium" !important;
+  }
+  .content-heighlight {
+    margin: 5rem 0px!important;
+  }
+    .video-lib-btn
+    {
+      padding: 20px;
+    }
+    #respo-dropdown a 
+    {
+      padding: 0px!important;
+    }
+    div#respo-dropdown {
+      padding-left: 60px;
+  }
+    #mobileNavbar .nav-icon {
+      display: block;
+      position: absolute;
+      top: 0;
+      right: 0;
+      transform: translate(-100%, 60%);
+      font-size: 1.8rem;
+      cursor: pointer;
+      color: black;
+    }
+  }
+  #mobileUpload
+  {
+    display: none;
+  }
+  .mobopr-4 {
+    padding-right: 1.5rem ;
+  }
+  .moboplpr-0
+  {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  #hideUpcoming
+  {
+    display: block;
+  }
+  .ipadplr
+  {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .ipadplr2
+  {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+    .content-heighlight
+    {
+      margin: 64px 0 0 240px!important;
+    }
+    /* For general iPad layouts */
+    .coachCount {
+      font-size: 16px!important;
+      text-align: left;
+      font-weight: 600;
+      letter-spacing: 0px;
+      color: #291C2E;
+      opacity: 0.42;
+  }
+    .orangeboxheader
+    {
+      display: none!important;
+    }
+    .pos-25team {
+      position: relative;
+      left: 0!important;
+      top: 0px;
+  }
+  .ipadplr
+  {
+     padding: 0px!important;
+  }
+  .ipadplr2
+  {
+    padding-left: 8px;
+      padding-right: 5px;
+  }
+  .ipad-20
+  {
+    font-size: 15px!important;
+  }
+  .ipadpl
+  {
+    padding-left: 8px!important;
+  }
+  .ipadpl-1
+  {
+    padding-left: 12px!important;
+  }
+  .divone {
+    width: 5%!important;
+    
+  }
+  .padleft-40 {
+    padding-left: 15px!important;
+  }
+  .divtwo {
+    width: 5%!important;
+    
+  }
+  .mobileself-align
+  {
+    align-self: center;
+  }
+  .plprMOB
+  {
+    padding-left: 25px!important
+  }
+  .width-160
+  {
+    width: 100px!important;
+  }
+  .ipadmr-3
+  {
+    margin-left: 20px;
+  }
+    .white-card
+    {
+      padding: 10px!important;
+    }
+    .ipadFont
+    {
+      font-size: 16px;
+    }
+    .content-layot {
+      margin: 64px 0 0 240px!important;
+      padding: 20px;
+      flex-grow: 1;
+  }
+  .addBtn
+  {
+    width: 175px!important;
+  }
+  .pos-25 {
+    position: relative;
+    left: 0%!important;
+  }
+  }
+  @media only screen and (device-width: 820px)
+  
+  {
+    .edit-profile{
+      /* padding-left: 25px !important; */
+      }
+    .profile-container{
+      padding-left: 25px !important;
+    }
+    .school-nm{
+      padding-left: 20px;
+  
+    }
+  
+    .pos-25team {
+      position: relative;
+      left: -30px!important;
+      top: 0px;
+  }
+  }
+  .coachCount
+  {
+    font-size: 19px;
+    text-align: left;
+    font-weight: 600;
+  letter-spacing: 0px;
+  color: #291C2E;
+  opacity: 0.42;
+  }
+  .totalNumber
+  {
+    text-align: left;
+  font-weight: 600;
+  font-size: 58px;
+  letter-spacing: 0px;
+  color: #002244;
+  opacity: 1;
+  }
+  .mrtopRes
+  {
+  
+  }
+  .plpr-4
+  {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  .p-20
+  {
+    padding: 20px;
+  }
+  button.liveCamBtn {
+    border-radius: 22px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    font-family: 'Rajdhani-SemiBold'!important;
+  }
+  button.liveCamBtn1 {
+    border-radius: 22px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    background-color:red;
+    color: white;
+    font-size: 18px;
+    font-family: 'Rajdhani-SemiBold'!important;
+  }
+  @media only screen and (max-width: 600px){
+    #dialogboxShare{
+      width: 97%;
+    }
+  
+    .feature-event{
+      margin-top: 8px;
+    }
+  
+    
+  }
+  .menu-three-dots{
+    border-radius: 100px;
+    padding: 6px;
+  }
+  .menu-three-dots-hovered{
+    border-radius: 100px;
+    padding: 6px;
+    background-color: rgb(230, 230, 230);
+  }
+  .menu-three-dots:hover{
+    background-color: rgb(230, 230, 230);
+  }
+  .small-popup-menuu{
+    background-color:none;
+    border-radius: 5px;
+  }
+  .small-popup-menuu2{
+    padding: 0 8px !important;
+    margin: 0 !important;
+    border-radius: 5px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+  }
+  .small-popup-menuu :hover{
+    background-color: rgb(230, 230, 230);
+  }
+  .share-popup-input{
+    padding:7px;
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  .share-popup-input:focus{
+    outline: none !important;
+  }
+  .share-popup-input::placeholder{
+    color: black !important;
+    font-weight: 300 !important;
+    font-size: 15px !important;
+    font-family: 'Rajdhani-Regular' !important;
+  }
+  
+  .popup-textarea:focus{
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  
+  .share-popup-select{
+    padding-left: 8px !important;
+  
+    color: black !important;
+    font-weight: 300 !important;
+    font-size: 15px !important;
+    font-family: 'Rajdhani-Regular' !important;
+  }
+  
+  .share-popup-select:hover{
+    cursor: pointer;
+  }
+  
+  .share-popup-select:focus{
+    outline: none !important;
+    box-shadow: none !important;
+  }
+  
+  .share-popup-select::placeholder{
+    color: black !important;
+    font-weight: 300 !important;
+    font-size: 15px !important;
+    font-family: 'Rajdhani-Regular' !important;
+  }
+  
+  .profile-menu-barr{
+    width: 100% !important;
+    padding: 10px !important;
+  }
+  
+  .profile-menu-barr:hover{
+    /* background-color: rgb(235, 235, 235); */
+    color: #000000;
+  }
+  
+  .profile-menu-iconss{
+    margin-right: 8px;
+  }
+  
+  .profile-menuu-barr:hover{
+    background-color: #e9e8e8 !important;
+    color: #000000;
+  }
+  
+  .small-popup-menuu1{
+    padding: 0 8px !important;
+    margin: 0 !important;
+    border-radius: 5px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .small-popup-menuu1-container:hover{
+    background-color: rgb(230, 230, 230);
+    border-radius: 7px;
+    cursor: pointer;
+  }
+  
+  .small-popup-menuu1 img{
+    width: 15px;
+    height: 15px;
+    margin-right: 8px;
+  }
+  
+  .small-popup-menuu1-p{
+    font-size: 14px;
+    color: grey;
+    font-family: 'Rajdhani-Regular';
+  }
+  
+  
+  
+  .small-popup-menuu2{
+    padding: 0 8px !important;
+    margin: 0 !important;
+    border-radius: 5px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .small-popup-menuu2-container:hover{
+    background-color: rgb(230, 230, 230);
+    border-radius: 7px;
+    cursor: pointer;
+  }
+  
+  .small-popup-menuu2 img{
+    width: 15px;
+    height: 15px;
+    margin-right: 8px;
+  }
+  
+  .small-popup-menuu2-p{
+    font-size: 14px;
+    color: grey;
+    font-family: 'Rajdhani-Regular';
+  }
+  
+  .popup-background-blur-effect-before{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .popup-background-blur-effect-after{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  
+  .sharewidget1 :focus + .small-popup-menuu1{
+    border: 1px solid blue;
+  }
+  
+  #schoolAdminButton .MuiButton-root:hover{
+    background-color: transparent !important;
+  }
+  
+  .manage-section-menu-itemss:hover{
+    background-color: #ededed;
+  }
+  
+  .MuiTableCell-root{
+    padding: 15px !important;
+    padding-left: 40px !important;
+    z-index: 0 !important;
+  } 
+  
+  .MuiTableRow-root:hover{
+    background-color: #ededed !important;
+  }
+  
+  .manage-section-dropdown-item{
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    height: 40px !important;
+    align-items: center;
+    padding: 0 12px;
+    margin-bottom: 4px;
+  }
+  
+  .manage-section-dropdown-item:hover{
+    background-color: #ededed;
+  }
+  
+  .manage-section-dropdown-item-link{
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .manage-section-dropdown-item-link:hover{
+    background-color: transparent !important;
+    color: black;
+  }
+  
+  .manage-section-iconss{
+    font-size: 16px;
+    margin-right: 8px;
+  }
+  
+  .delete-icon{
+    color: red;
+  }
+  
+  .manage-menu-three-dots{
+    border-radius: 100px;
+    padding: 6px;
+  }
+  
+  .manage-menu-three-dots-hovered{
+    border-radius: 100px;
+    padding: 6px;
+    background-color: rgb(201, 201, 201);
+  }
+  
+  .manage-dropdown-content{
+    top: -70px !important;
+    right: 25px !important;
+  }
+  
+  .manage-small-popup-menuu1-p{
+    color: black;
+    font-size: 16px;
+  }
+  
+  .brd-bottom{
+    display: block;
+    padding: 0 7px 5px 7px;
+    border-bottom: 1px solid black;
+  }
+  
+  .header-btn-center{
+    padding-left: 4px;
+    align-content: center;
+    align-items: center;
+  }
+  
+  .MuiTablePagination-root:last-child:hover {
+    background-color: white !important;
+  }
+  
+  .add-sectionn #search_input{
+    width: 24%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    outline: 0;
+    background-position: 12px;
+    background-size: 25px;
+    font-size: 16px;
+    font-family: "Rajdhani-Medium";
+    border: none;
+    border-radius: 7px; 
+    outline: none;
+    padding: 7px 4px 7px 40px;
+    margin: 0px 0px 0px -13px!important;
+    z-index: -1 !important;
+    background-color: transparent;
+  }
+  
+  .add-sectionn .searchWrapper{
+    padding: 3px 8px;
+    overflow: hidden;
+  }
+  
+  .grey-background{
+    background-color: #fafafa !important;
+  }
+  
+  .cent-align{
+    display: flex;
+    align-items: center;
+  }
+  
+  .mg-left{
+    margin-left: 5px;
+  }
+  
+  .mg-right{
+    margin-right: 5px;
+  }
+  
+  .mg-left2{
+    margin-left: 10px;
+  }
+  
+  @media only screen and (max-width: 449px){
+    .profile-header{
+      padding-top: 0% !important;
+      margin-top: 0px !important;
+    }
+  
+    .school-nm{
+      padding-left: 0px !important;
+  
+    }
+    .profile-img{
+      margin-left: 0px;
+    
+    }
+  
+    .edit-profile{
+      padding-left: 0px !important;
+      }
+    .profile-container{
+      margin-top: 0% !important;
+      padding-left: 5px !important;
+      padding-right: 5px !important;
+      padding-top: 2rem !important;
+    }
+  .profileLevel{
+    margin-left: 10px;
+  }
+  
+  .uploadDocuments-card {
+    padding: 0px;
+    margin-left: 20px;
+  }
+  
+  .instructionbox{
+    width: 410px;;
+    margin-top: 20px;
+    padding: 0%;
+    margin-left: 0%;
+    margin-right: 20px !;
+  
+  }
+  
+  }
+  
+  .mng-icons{
+    height: 20px !important;
+    width: 20px !important;
+    margin-right: 10px;
+  }
+  
+  .w-50p{
+    padding:10px;
+    min-width: 300px;
+  }
+  
+  .mg-bottom{
+    padding: 0 !important;
+    margin-bottom: 5px;
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  .mg-top{
+    margin-top: 10px;
+  }
+  
+  .m-Dashboard-listt-items{
+    /* margin-top: 8px !important; */
+    padding: 10px 0px 10px 40px;
+    width: 100%;
+    color: rgb(61, 61, 61);
+  }
+  
+  .m-Dashboard-listt-items:hover{
+    background-color: #ebeaea !important;
+  }
+  
+  .m-li-active{
+    background-color: #ebeaea !important;
+    padding: 10px 0px 10px 40px !important;
+    width: 100%;
+  }
+  
+  .setting-icon{
+    margin-right: 8px;
+  }
+  
+  .borderr-grey{
+    margin-top: 5px;
+    height: 1px;
+    background-color: rgb(95, 95, 95);
+  }
+  
+  .vid-m-li-active{
+    background-color: #ebeaea !important;
+    padding: 7px 0px 7px 20px !important;
+    width: 50%;
+    margin-left: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .vid-m-Dashboard-listt-items{
+    /* margin-top: 8px !important; */
+    padding: 10px 0px 10px 20px;
+    width: 50%;
+    color: rgb(61, 61, 61);
+    border: 1px solid grey;
+    margin-left: 20px;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .vid-icon{
+    margin-right: 12px;
+    height: 30px;
+    width: 30px;
+  }
+  
+  .mng-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    margin-bottom: 15px;
+    padding: 0 15px;
+    z-index: 10;
+    
+    background-color: white;
+    border-bottom: 0.3px solid rgb(204, 204, 204);
+  }
+  
+  .mng-header.stickyy{
+    position: sticky !important;
+  }
+  
+  .dropdown-icon{
+    color: black;
+    font-size: 25px;
+    margin-left: 20px;
+  }
+  
+  .fs-18{
+    font-size: 18px;
+    font-weight: lighter;
+  }
+  
+  .d-flex-align-cent{
+    display: flex;
+    align-items: center;
+  }
+  
+  .justify-sp-btn{
+    justify-content: space-between;
+  }
+  
+  
+  @media only screen and (max-width: 733px){
+    .mng-header{
+      margin-top: 10px !important;
+    }
+    .mng-add-header{
+      margin-top: 18px !important;
+  
+    }
+  }
+  /* #schooladmin .MuiListItem-button.active{
+    background-color: #094c8e !important;
+    color: #ffffff;
+    box-shadow: 0px 2px 6px #00000029;
+  } */
+  
+  .ad-cochh{
+    position: relative !important;
+  }
+  
+  .fix-header{
+    position: fixed !important;
+    width: 100%;
+    background: #ffffff 0% 0% no-repeat padding-box; 
+    box-shadow: 0px 3px 6px #d8d8d829;
+    opacity: 1;
+    height: auto !important; 
+    padding:0px !important;
+    z-index: 1;
+  }
+  
+  .mng-add-header{
+  
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    margin-top: 2px;
+    margin-bottom: 15px;
+    padding: 0 15px;
+    z-index: 1000;
+    
+    background-color: white;
+    border-bottom: 0.3px solid rgb(204, 204, 204);
+  }
+  
+  .tb-p{
+    padding: 0 !important;
+  }
+  
+  .color-white{
+    color: white !important;
+  }
+  
+  .active-addBtn {
+    width: 175px;
+    background: #002244 !important;
+    border-top-left-radius: 11px !important;
+    border-top-right-radius: 11px !important;
+    opacity: 1;
+    color: #ffffff !important;
+    padding:8px 15px;
+    font-family: "Rajdhani-SemiBold" !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    outline: none;
+    border: none;
+  }
+  
+  .addBtnn {
+    width: 175px;
+    background: #002244 !important;
+    border-radius: 11px !important;
+    opacity: 1;
+    color: #ffffff !important;
+    padding:8px 15px;
+    font-family: "Rajdhani-SemiBold" !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    outline: none;
+    border: none;
+  }
+  
+  .active-athlete-dropdown{
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+  }
+  
+  
+  .dropcontent.addathlete-dropdown {
+    position: absolute;
+    top: 38px !important;
+    z-index: 11 !important;
+    min-width: 175px;
+    padding: 5px 0 0 0!important;
+    background-color: #002244;
+    outline: none !important;
+    border: none !important;
+    border: 2px solid ;
+    -webkit-box-shadow: -2px 1px 29px -7px rgba(0,34,68,1);
+  -moz-box-shadow: -2px 1px 29px -7px rgba(0,34,68,1);
+  box-shadow: -2px 1px 29px -7px rgba(0,34,68,1);
+    /* min-width: 100% !important; */
+  }
+  
+  .add-athlete-links:hover .manage-section-iconss{
+    color: black;
+  }
+  
+  .athlete-link-div{
+    display: flex;
+    align-items: center;
+    padding: 10px 12px;
+  }
+  
+  .l-div{
+    border-bottom-left-radius: 11px;
+    border-bottom-right-radius: 11px;
+  }
+  
+  .athlete-link-div:hover{
+    background-color: white;
+  }
+  
+  .athlete-link-div .icn{
+    color: white;
+    margin-right: 10px;
+    font-size: 13px;
+  }
+  
+  .athlete-link-div .lname{
+    font-size: 12px;
+    color: white;
+  }
+  
+  .athlete-link-div:hover .icn{
+    color: black;
+  }
+  
+  .athlete-link-div:hover .lname{
+    color: black;
+  }
+  @media only screen and (max-width: 375px){
+    .uploadDocuments-card {
+      padding: 0px;
+      margin-left: 20px;
+    }
+    
+    .instructionbox{
+      width: 374px;;
+      margin-top: 20px;
+      padding: 0%;
+      margin-left: 0%;
+      margin-right: 20px !;
+    
+    }
+  }
+  
