@@ -264,7 +264,7 @@
     box-shadow: 0px 20px 40px #00000029;
     border: 1px solid #d6d6d6;
     border-radius: 11px;
-    opacity: 1;
+    opacity: 100 !important;
     margin-left: 72px;
     top: 202px;
   }
@@ -354,7 +354,7 @@
     height: 38px;
   }
   .saveBtn {
-    background: #002244 0% 0% no-repeat padding-box;
+    background: #002244;
     border-radius: 4px;
     opacity: 1;
     letter-spacing: 0px;
@@ -774,6 +774,7 @@
   #videoliabrary1 .vidolib-scroll {
     height: 100%;
     overflow: hidden;
+    margin-top: 4px;
   }
   #videoliabrary1 .vidolib-scroll:hover {
     height: 100%;
@@ -1013,10 +1014,6 @@
   .h-40 {
     height: 36px !important;
   }
-  .school-nm{
-    padding-left: 20px;
-  }
-  
   .school-name {
     display: -webkit-box;
     max-width: 400px;
@@ -1545,13 +1542,8 @@
     margin: 0 auto;
     width: fit-content;
   }
-  .billing-notification{
-    color: black !important;
-  
-  }
-  .billing-notification:hover {
-    background-color: #d5bdbd5a;
-    border-radius: 8px;
+  .fmlabel {
+    color: #818181;
   }
   
   .switchschlIMG {
@@ -1562,7 +1554,8 @@
     color: #2c9d69;
   }
   .content-layoutBill {
-    margin: 0px !important;
+    margin: 64px 0 0 244px !important;
+    flex-grow: 1;
   }
   .greyboxnew {
     background: #fafafa 0% 0% no-repeat padding-box;
@@ -1572,9 +1565,8 @@
     text-align: center;
   }
   .orangeboxheader {
-    background: #fc4b6c 0% 0% no-repeat padding-box;
+    background: #ffd69d 0% 0% no-repeat padding-box;
     border-radius: 6px;
-    height: 45px !important;
     opacity: 1;
     padding: 7px;
     text-align: center;
@@ -1592,8 +1584,7 @@
     color: black;
   }
   .profile-container{
-    padding-top: 7rem !important;
-    padding-left: 25px !important;
+    padding-left: 35px !important;
   }
   .black {
     color: black;
@@ -1761,27 +1752,6 @@
     z-index: 1;
     margin-top: -40px;
   }
-  .profile-header{
-    /* position: fixed !important; */
-    width: 100% !important;
-    background: #ffffff 0% 0% no-repeat padding-box; 
-    box-shadow: 0px 3px 6px #d8d8d829;
-    opacity: 1;
-    height: auto !important; 
-    /* padding:0px !important; */
-    z-index: 1;
-  
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    /* height: 60px; */
-    /* margin-bottom: 15px; */
-    /* padding: 15px 0px 15px 0px; */
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-right: 35px !important;
-    /* z-index: 10; */
-  }
   .addSchool-innerHeader {
     position: fixed !important;
     width: 100% !important;
@@ -1804,9 +1774,8 @@
     top: 0;
   }
   .edit-profile{
-  padding-left: 20px !important;
+  padding-left: 35px !important;
   }
-  
   
   .addSchool-innerHeaderAthelete {
     position: fixed !important;
@@ -1835,15 +1804,9 @@
   .padtop25 {
     padding-top: 20px !important;
   }
-  
-  .pf-school{
-  padding-top: 20px;
-    padding-right: 0px !important;
-  }
   .pftext {
     position: relative;
-    top: 10px;
-    padding-right: 30px !important;
+    top: 20px;
     /* top: 7px; */
   }
   .circleimage {
@@ -1910,19 +1873,15 @@
     left: -70px;
     top: 0px;
   }
-  .profile-img{
-    margin-left: 10px;
-  }
-  
   .circular {
-    width: 100%;
+    width: 100px;
     height: 100px;
     border-radius: 50%;
     position: relative;
     overflow: visible;
   }
   .circular img {
-    min-width: 100px;
+    min-width: 100%;
     min-height: 100%;
     width: auto;
     height: auto;
@@ -2076,13 +2035,12 @@
     opacity: 0.7;
   }
   .warningbox {
-    background: #fc4b6c 0% 0% no-repeat padding-box;
+    background: #ffd69d 0% 0% no-repeat padding-box;
     border: 1px solid #ffab26;
     border-radius: 4px;
     opacity: 1;
-    padding: 0px 3px;
+    padding: 0px 2px;
     margin-top: -5px;
-    color: white;
   }
   
   .react-datepicker-popper {
@@ -2666,6 +2624,7 @@
   .savebtn
   {
     width: 90px!important;
+    background-color: #002244 !important;
   }
   .cancelbtn
   {
@@ -2709,7 +2668,15 @@
   }
   #videoliabrary1
   {
-    display: none!important;
+    margin-top: 20px;
+    /* display: none!important; */
+    /* display: flex ; */
+  }
+  .videoliabraryCategory{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
   }
   #CardEVENT2
   {
@@ -2963,16 +2930,8 @@
   /* Small devices (portrait tablets and large phones, 600px and up) */
   @media only screen and (max-width: 768px) {
   
-    .profile-container{
-      padding-left: 20px !important;
-    }
-  
     .edit-profile{
-      /* padding-left: 20px !important; */
-      }
-      .school-nm{
-        padding-left: 30px !important;
-    
+      padding-left: 65px !important;
       }
   
   }
@@ -3330,17 +3289,12 @@
   }
   }
   @media only screen and (device-width: 820px)
-  
   {
     .edit-profile{
-      /* padding-left: 25px !important; */
+      padding-left: 65px !important;
       }
     .profile-container{
-      padding-left: 25px !important;
-    }
-    .school-nm{
-      padding-left: 20px;
-  
+      padding-left: 60px !important;
     }
   
     .pos-25team {
@@ -3409,7 +3363,6 @@
     .feature-event{
       margin-top: 8px;
     }
-  
     
   }
   .menu-three-dots{
@@ -3706,7 +3659,11 @@
   }
   
   .mg-right{
-    margin-right: 5px;
+    margin-right: 5px !important;
+  }
+  
+  .mg-right-10{
+    margin-right: 10px !important;
   }
   
   .mg-left2{
@@ -3714,28 +3671,12 @@
   }
   
   @media only screen and (max-width: 449px){
-    .profile-header{
-      padding-top: 0% !important;
-      margin-top: 0px !important;
-    }
-  
-    .school-nm{
-      padding-left: 0px !important;
-  
-    }
-    .profile-img{
-      margin-left: 0px;
-    
-    }
-  
     .edit-profile{
       padding-left: 0px !important;
       }
     .profile-container{
-      margin-top: 0% !important;
-      padding-left: 5px !important;
-      padding-right: 5px !important;
-      padding-top: 2rem !important;
+      padding-left: 0px !important;
+      padding-right: 0% !important;
     }
   .profileLevel{
     margin-left: 10px;
@@ -3833,6 +3774,7 @@
   }
   
   .mng-header{
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -3840,13 +3782,13 @@
     margin-bottom: 15px;
     padding: 0 15px;
     z-index: 10;
-    
     background-color: white;
     border-bottom: 0.3px solid rgb(204, 204, 204);
   }
   
   .mng-header.stickyy{
-    position: sticky !important;
+    position: sticky;
+    top: -1px;
   }
   
   .dropdown-icon{
@@ -3876,7 +3818,10 @@
     }
     .mng-add-header{
       margin-top: 18px !important;
-  
+    }
+    .manage-mng-add-header{
+      margin-top: 18px !important;
+      padding:0 13px !important;
     }
   }
   /* #schooladmin .MuiListItem-button.active{
@@ -3901,7 +3846,7 @@
   }
   
   .mng-add-header{
-  
+    position: relative !important;
     width: 100%;
     display: flex;
     align-items: center;
@@ -3910,10 +3855,13 @@
     margin-top: 2px;
     margin-bottom: 15px;
     padding: 0 15px;
-    z-index: 1000;
-    
     background-color: white;
     border-bottom: 0.3px solid rgb(204, 204, 204);
+  }
+  
+  .mng-add-header.sticky{
+    position: sticky !important;
+    top: -1px !important;
   }
   
   .tb-p{
@@ -3943,7 +3891,22 @@
   .addBtnn {
     width: 175px;
     background: #002244 !important;
-    border-radius: 11px !important;
+    border-radius: 22px !important;
+    opacity: 1;
+    color: #ffffff !important;
+    padding:8px 15px;
+    font-family: "Rajdhani-SemiBold" !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    outline: none;
+    border: none;
+  }
+  
+  .athlete-addBtnn {
+    width: 175px;
+    background: #002244 !important;
+    border-radius: 22px !important;
     opacity: 1;
     color: #ffffff !important;
     padding:8px 15px;
@@ -4016,6 +3979,7 @@
   .athlete-link-div:hover .lname{
     color: black;
   }
+  
   @media only screen and (max-width: 375px){
     .uploadDocuments-card {
       padding: 0px;
@@ -4031,4 +3995,171 @@
     
     }
   }
+  
+  .icon-hover{
+    padding: 10px;
+    border-radius: 8px;
+  }
+  .icon-hover:hover{
+    background-color: #ebeaea;
+  }
+  
+  .dflex{
+    display: flex;
+  }
+  
+  .saveBtn1{
+    background: #002244;
+    /* background: #002244 0% 0% no-repeat padding-box; */
+    border-radius: 22px;
+    opacity: 1;
+    letter-spacing: 0px;
+    color: #ffffff;
+    font-family: "Rajdhani-SemiBold" !important;
+    outline: none;
+    width: 107px;
+    height: 38px;
+    border: 1px solid #002244;
+  }
+  
+  .saveBtn1.activv{
+    opacity: 0.5;
+  }
+  
+  @media only screen and (max-width: 520px){
+    .athlete-nm{
+      font-size: 18px !important;
+    }
+  
+    .mg-0{
+      margin: 0 !important;
+    }
+  
+    .header-nm{
+      font-size: 16px !important;
+    }
+  
+    .number-card{
+      padding:5px !important;
+    }
+  
+    .mng-padding{
+      padding:8px 8px !important;
+    }
+  
+    .addBtnn{
+      padding-left: 13px !important;
+      padding-right: 13px !important;
+      width: auto;
+      font-size: 12px !important;
+    }
+  
+    .ed-icn{
+      margin-right: 2px !important;
+    }
+  
+    .mob-hd{
+      font-size: 20px !important;
+    }
+  
+    .saveBtn1{
+      width: auto;
+      padding: 4px 20px;
+    }
+    .cancelbtn{
+      width: auto !important;
+      padding: 4px 20px;
+    }
+  }
+  
+  .oflow{
+    overflow-x: scroll;
+  }
+  
+  .number-card{
+    padding:20px;
+    border-radius: 8px;
+  }
+  
+  .number-card:hover{
+    background-color: #002244;
+    color: white;
+  }
+  
+  .mng-padding{
+    
+  }
+  
+  .savebtn{
+    background-color: #002244 !important;
+  }
+  
+  .mg-bottom-0{
+    margin-bottom: 0 !important;
+  }
+  
+  .mg-top-0{
+    margin-top: 0 !important;
+  }
+  
+  .manage-mng-add-header{
+    position: relative !important;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    margin-top: 2px;
+    margin-bottom: 15px;
+    padding: 0 30px;
+    background-color: white;
+    border-bottom: 0.3px solid rgb(204, 204, 204);
+  }
+  
+  .ed-icn{
+    margin-right: 10px;
+  }
+  
+  @media only screen and (max-width: 978px){
+    .event-nm-hide{
+      display: none !important;
+    }
+  }
+  
+  .canBtn:hover{
+    background-color: #c4c4c4;
+    color: white;
+  }
+  
+  .delBtn:hover{
+    background-color: rgb(241, 25, 25);
+  }
+  
+  .circleimage :hover{
+    border:2px solid red;
+  }
+  
+  .nhover:hover{
+    background-color: red !important;
+  }
+  
+  @media only screen and (max-width: 417px){
+    .athlete-nm{
+      margin-top: 5px;
+    }
+  }
+  
+  .cancelbtn1{
+    width: 102px;
+    height: 40px;
+    background: #e5e5e5 0% 0% no-repeat padding-box;
+    border-radius: 22px;
+    opacity: 1;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+  }
+  
   
